@@ -7,7 +7,7 @@ Orientação a objetos;
 Encapsulamento;
 Herança;
 Polimorfismo;
-Métodos;
+Métodos.
 
 As funcionalidades dele são:
 Criação de Conta Bancária;
