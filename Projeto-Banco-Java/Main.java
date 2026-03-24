@@ -22,7 +22,7 @@ public class Main {
 		System.out.println(contap1);
 		System.out.println("-----Conta Especial-----");
 		
-		ContaEspecial contae1 = new ContaEspecial(null, null, 0);
+		ContaEspecial contae1 = new ContaEspecial("David", "22222", 0);
 		contae1.setNomeCliente("David");
 		contae1.setNumCliente("22222");
 		contae1.setLimite(500);
